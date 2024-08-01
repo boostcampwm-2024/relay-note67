@@ -21,10 +21,10 @@
   - 07.29 (월): 19시 ~ 19시 40분 동안 집안일 (빨래 개기, 저녁 설거지, 청소기)
   - 07.30 (화): 23시 30분 ~ 24시 00분 동안 운동 (폼롤러)
   - 07.31 (화): 12시 15분 ~ 12시 45분 동안 점심 픽업 & 산책
-    <img src="https://gist.github.com/user-attachments/assets/8f95f98f-89f4-4c3b-8a8c-b1ff6df6c18a" width="70%" />
+    <img src="https://github.com/user-attachments/assets/630d76fc-0854-4922-a348-587d6c35797f" width="70%" />
 
   - 08.01 (화): 12시 10분 ~ 12시 50분 동안 출력 & 점심 픽업 & 산책
-    <img src="https://gist.github.com/user-attachments/assets/52efb3aa-0782-4755-980b-4fdf4793c9a7" width="70%" />
+    <img src="https://github.com/user-attachments/assets/27500476-126f-4e53-9972-75824149f9df" width="70%" />
 
 ### 퀘스트 : 이번주를 돌아보며, 다음주부터 지킬 원칙 1개 정하고 수행하기
 
